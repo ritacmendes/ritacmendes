@@ -3,7 +3,7 @@
 ##
 
 - 📍 Based in Lisbon, Portugal
-- 🎓 Studying electrotechnical engineering (MEEC) at Instituto Superior Técnico
+- 🎓 MSc in Electrical and Computer Engineering @ IST
 - ⚡ I have _many_ hobbies
 - 🌱 c:
 
