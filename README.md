@@ -1,7 +1,8 @@
 ### Hi, I'm Rita! <img src="https://github.com/SparklingRita/SparklingRita/blob/master/wave.gif" width="20"></img>
 
-Check out my [personal website](ritacmendes.com)!
-Get in touch at [me@ritacmendes.com](mailto:me@ritacmendes.com).
+🌐 [Personal Website](https://ritacmendes.com)
+
+✉️ [me@ritacmendes.com](mailto:me@ritacmendes.com)
 
 ##
 
